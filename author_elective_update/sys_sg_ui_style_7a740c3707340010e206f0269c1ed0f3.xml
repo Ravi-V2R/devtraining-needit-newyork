@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="DELETE">
+        <active>true</active>
+        <condition table="x_58872_needit_needit">priority=1^EQ<item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>priority</field>
+        <item_vew/>
+        <item_view_element/>
+        <name>Priority is Critical</name>
+        <style>{"background_color":"961757","font_color":"ffffff"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 09:43:51</sys_created_on>
+        <sys_id>7a740c3707340010e206f0269c1ed0f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority is Critical</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_style_7a740c3707340010e206f0269c1ed0f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 09:43:51</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <use_item_view_elements>false</use_item_view_elements>
+    </sys_sg_ui_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>bfdc4b09db8277c491232f17d4961985</instance_id>
+        <instance_name>dev87098</instance_name>
+        <name>sys_sg_ui_style_7a740c3707340010e206f0269c1ed0f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="x_58872_needit_needit">priority=1^EQ<item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>priority</field><item_vew/><item_view_element/><name>Priority is Critical</name><style>{"background_color":"961757","font_color":"ffffff"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-05 09:43:51</sys_created_on><sys_id>7a740c3707340010e206f0269c1ed0f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Priority is Critical</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_style_7a740c3707340010e206f0269c1ed0f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-05 09:43:51</sys_updated_on><table>x_58872_needit_needit</table><use_item_view_elements>false</use_item_view_elements></sys_sg_ui_style></record_update>]]></payload>
+        <payload_hash>1865062014</payload_hash>
+        <record_name>Priority is Critical</record_name>
+        <reverted_from/>
+        <source>b33e417907f00010e206f0269c1ed022</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 09:43:52</sys_created_on>
+        <sys_id>85d4807707340010e206f0269c1ed038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e3af2f7d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 09:43:52</sys_updated_on>
+        <type>UI Style</type>
+        <update_guid>cdd4807752340010246634377f13ad37</update_guid>
+        <update_guid_history>cdd4807752340010246634377f13ad37:1865062014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 10:48:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_style">sys_sg_ui_style</sys_db_object>
+        <sys_id>8dad96c0a6544c51ba2d9ddb83069901</sys_id>
+        <sys_metadata>7a740c3707340010e206f0269c1ed0f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority is Critical</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_style_7a740c3707340010e206f0269c1ed0f3</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_style_7a740c3707340010e206f0269c1ed0f3">85d4807707340010e206f0269c1ed038</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 10:48:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
